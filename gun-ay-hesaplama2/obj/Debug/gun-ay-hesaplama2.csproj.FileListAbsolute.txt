@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\bin\Debug\gun-ay-hesaplama2.exe.config
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\bin\Debug\gun-ay-hesaplama2.exe
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\bin\Debug\gun-ay-hesaplama2.pdb
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun-ay-hesaplama2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun-ay-hesaplama2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun_ay_hesaplama2.Form1.resources
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun_ay_hesaplama2.Properties.Resources.resources
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun-ay-hesaplama2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun-ay-hesaplama2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun-ay-hesaplama2.exe
+C:\Users\User\source\repos\gun-ay-hesaplama2\gun-ay-hesaplama2\obj\Debug\gun-ay-hesaplama2.pdb
